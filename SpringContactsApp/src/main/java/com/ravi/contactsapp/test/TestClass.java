@@ -11,8 +11,7 @@ public class TestClass {
 
 		Integer[] nameInt = { 5, 6, 3, 9, 9, 10 };
 		System.out.println(nameInt);
-		System.out.println("Hello Git");
-
+        System.out.println("Build Hello Message First");
 	}
 
 }
